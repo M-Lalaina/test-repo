@@ -1,7 +1,11 @@
+# Portfolio_Lalaina
+
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <br>
 
-# Portfolio_Lalaina
+<h2>If you want to learn more about Me! HERE You have more informations.</h2>
+
+<br>
 
 ![makes-progress-no-matter-how-slow___](https://user-images.githubusercontent.com/98206200/159116047-9088e164-30c1-4297-bd08-b738e3bb2657.svg)
 <br>
