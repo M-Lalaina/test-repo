@@ -3,7 +3,7 @@
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
 <br>
 
-<h2>If you want to learn more about Me! HERE You have more informations.</h2>
+<h2>.</h2>
 
 <br>
 
