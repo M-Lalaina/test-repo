@@ -1,15 +1,16 @@
 # Portfolio_Lalaina
 
 [![forthebadge](https://forthebadge.com/images/badges/built-with-love.svg)](https://forthebadge.com)
-<br>
 
 <h2>.</h2>
 
 <br>
 
 ![makes-progress-no-matter-how-slow___](https://user-images.githubusercontent.com/98206200/159116047-9088e164-30c1-4297-bd08-b738e3bb2657.svg)
-<br>
 
+<h2>.</h2>
+
+<br>
 <h3>All you have to do is to give your best!💯</h3>
 <br>
 <div align="center">
